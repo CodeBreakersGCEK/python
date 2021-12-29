@@ -11,21 +11,19 @@
 # d=(2+8)*3
 # print(d)
 
-
-x='Abhisek'
+x = "Abhisek"
 print(x)
-y="Abhisek's Laptop" # to avoid this always use "" and vise versa
+y = "Abhisek's Laptop"  # to avoid this always use "" and vise versa
 print(y)
 
-x="India" * 10
+x = "India" * 10
 print(x)
-x="India\n" * 10
+x = "India\n" * 10
 print(x)
-x="c:\docs\navin"
+x = "c:\docs\navin"
 print(x)
 
-
-name="Abhise Samal"
+name = "Abhise Samal"
 len(name)
 print(len(name))
 print(name[0])
@@ -40,19 +38,19 @@ print(name[-1])
 
 print(name + "Samal")
 
-c=9
-d=8
-print(c+d)
+c = 9
+d = 8
+print(c + d)
 # print(_+8)
 
 
-print("sorry "*100)
-set={1,2,2}
+print("sorry " * 100)
+set = {1, 2, 2}
 print(set)
-list=[3,5,6,7]
-t=(3,5,6,7)
-t[0]="a"
+list = [3, 5, 6, 7]
+t = (3, 5, 6, 7)
+t[0] = "a"
 print(t)
-list[0]="z"
+list[0] = "z"
 print(list)
 # print(list)
